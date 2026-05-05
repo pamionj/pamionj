@@ -1,16 +1,20 @@
 # Hi, I'm Pablo 👋  
 ### Backend Developer | Automation & AI
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-View%20Site%20(ES)-black?style=for-the-badge)](https://pabloamion.vercel.app/)
+
 Building systems that reduce manual work, automate workflows, and turn data into actionable processes.
 
 ---
 
 ## 🚀 About Me
 
-- Backend-focused developer (Python, FastAPI, APIs)  
-- Building automation systems with real-world use cases  
-- Working with AI integrations (LLMs, prompting, RAG)  
-- Interested in early-stage startups and high-impact products  
+Backend developer focused on building automation systems and AI-powered solutions for real-world use cases.
+
+- Develop REST APIs using Python (FastAPI) and Java (Spring Boot)  
+- Automate business workflows through scripting and system integration  
+- Integrate AI (LLMs, prompting, RAG) into backend architectures  
+- Design scalable systems with clear data flow and structure  
 
 🌎 Chile (GMT-4) | English: C1 | Open to remote work  
 
@@ -29,12 +33,12 @@ Building systems that reduce manual work, automate workflows, and turn data into
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Featured Work
 
 ### 🧩 AI Commercial Agent  
 AI-powered workflow automation system  
 
-👉 https://github.com/pamionj/ai-commercial-agent  
+🔗 https://github.com/pamionj/ai-commercial-agent  
 
 - Automates customer interaction and data entry workflows
 - Integrates LLMs for dynamic response generation
@@ -47,18 +51,21 @@ AI-powered workflow automation system
 
 ---
 
-## 📌 Other Projects
+## 📌 Selected Systems
 
-### ⚙️ User Management API  
+### ⚙️ User Management API
+https://github.com/pamionj/user-management-api
 - REST API with layered architecture  
 - CRUD operations with validation  
 - Scalable backend structure  
 
-### 🧪 QA Automation Lab  
+### 🧪 QA Automation Lab 
+https://github.com/pamionj/qa-automation-lab
 - Automated testing using Selenium  
 - Reduced repetitive QA tasks  
 
 ### 🛒 E-commerce Platform  
+https://github.com/pamionj/tienda-del-ganso-fullstack
 - Full-stack application (Next.js + backend)  
 - Product and purchase flow management  
 
