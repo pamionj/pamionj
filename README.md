@@ -36,8 +36,8 @@ AI-powered workflow automation system
 
 👉 https://github.com/pamionj/ai-commercial-agent  
 
-- Automates customer interaction and data entry  
-- Integrates LLMs for dynamic responses  
+- Automates customer interaction and data entry workflows
+- Integrates LLMs for dynamic response generation
 - Structures data for tracking and decision-making  
 - Designed to reduce repetitive manual work  
 
@@ -64,14 +64,6 @@ AI-powered workflow automation system
 
 ---
 
-## 📈 GitHub Stats
-
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamionj&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamionj&layout=compact)
-
----
-
 ## 🧩 What I'm Building Now
 
 - AI-powered automation systems  
@@ -79,6 +71,7 @@ AI-powered workflow automation system
 - Real-world applications using LLMs  
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamionj)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact
 
@@ -86,7 +79,3 @@ AI-powered workflow automation system
 - GitHub: https://github.com/pamionj  
 
 ---
-
-## ⚡ Fun Fact
-
-I enjoy turning manual processes into automated systems.
