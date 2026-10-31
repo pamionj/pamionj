@@ -1,87 +1,66 @@
-# Hi, I'm Pablo 👋  
-### Backend Developer | Automation & AI
+# Pablo Amion
+### Backend Development · Data Engineering · Automation
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-View%20Site%20(ES)-black?style=for-the-badge)](https://pabloamion.vercel.app/)
+Informatics Engineering student in my final semester, with hands-on experience in backend development, data integration, and workflow automation.
 
-Building systems that reduce manual work, automate workflows, and turn data into actionable processes.
+I built a Python ETL platform deployed in production at Déficit Cero, consolidating more than **48,000 records** from multiple sources and automating operational reporting. 
 
----
+I combine backend development with frontend skills and a focus on clear, usable interfaces.
 
-## 🚀 About Me
+Based in **Santiago, Chile** · **English: C1** · Open to remote opportunities
 
-Backend developer focused on building automation systems and AI-powered solutions for real-world use cases.
+[Portfolio](https://pabloamion-portfolio.pages.dev/) · [Email](mailto:pamionj@gmail.com)
 
-- Develop REST APIs using Python (FastAPI) and Java (Spring Boot)  
-- Automate business workflows through scripting and system integration  
-- Integrate AI (LLMs, prompting, RAG) into backend architectures  
-- Design scalable systems with clear data flow and structure  
+## Technical Skills
 
-🌎 Chile (GMT-4) | English: C1 | Open to remote work  
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, Java, SQL, TypeScript |
+| Backend | FastAPI, Spring Boot, REST APIs |
+| Data | PostgreSQL, SQLite, ETL pipelines, Streamlit, Plotly |
+| Automation & Testing | Python scripting, Selenium |
+| AI Integration | LLMs, prompting, RAG architectures |
+| Frontend | React, Next.js, Tailwind CSS |
+| Development Tools | Git, GitHub, Docker, Linux, Postman |
 
----
+## Featured Projects
 
-## 🧠 Tech Stack
+### [Unified Data Insights Platform](https://github.com/pamionj/unified-data-insights-platform)
+**Data engineering platform deployed in production at Déficit Cero.**
 
-![Python](https://img.shields.io/badge/Python-Backend-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
-![Java](https://img.shields.io/badge/Java-SpringBoot-red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
-![Linux](https://img.shields.io/badge/Linux-Environment-black)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
-![AI](https://img.shields.io/badge/AI-LLMs-purple)
+- Consolidates more than 48,000 records from multiple data sources.
+- Validates, normalizes, and deduplicates records, including identity reconciliation.
+- Provides traceability and execution auditing with SQLite.
+- Supports interactive dashboards and automated reporting through Streamlit, Plotly, and Google Sheets.
 
----
+### [AI Commercial Agent](https://github.com/pamionj/ai-commercial-agent)
+**Backend system for AI-assisted commercial workflows.**
 
-## 🔥 Featured Work
+- Integrates multiple AI models to generate and process responses.
+- Automates repetitive customer interaction and data entry tasks.
+- Structures information for follow-up and traceability.
 
-### 🧩 AI Commercial Agent  
-AI-powered workflow automation system  
+### [User Management API](https://github.com/pamionj/user-management-api)
+**Java REST API for user management.**
 
-🔗 https://github.com/pamionj/ai-commercial-agent  
+- Uses a layered architecture to separate application responsibilities.
+- Implements CRUD operations and data validation.
 
-- Automates customer interaction and data entry workflows
-- Integrates LLMs for dynamic response generation
-- Structures data for tracking and decision-making  
-- Designed to reduce repetitive manual work  
+## Additional Projects
 
-📊 **Impact (estimated):**
-- ↓ Manual workload by ~40%  
-- ↑ Data traceability in workflows  
+- **[QA Automation Lab](https://github.com/pamionj/qa-automation-lab)** — Selenium-based automated testing to reduce repetitive manual validation.
+- **[E-commerce Platform](https://github.com/pamionj/tienda-del-ganso-fullstack)** — Full-stack application with Next.js, product management, and purchase workflows.
+- **[Services Website](https://biomagnetismoyterapiasalternativas.cl)** — Production website with technical SEO implementation.
 
----
+## Background
 
-## 📌 Selected Systems
+- **Informatics Engineering** — INACAP, final semester.
+- **Data Engineering Internship** — Déficit Cero, May–August 2026.
+- Previous IT support experience at **TPF Ingeniería**, **Colbún (rollout project)**, and **Ripley**, including a corporate deployment of more than 300 computers.
 
-### ⚙️ User Management API
-https://github.com/pamionj/user-management-api
-- REST API with layered architecture  
-- CRUD operations with validation  
-- Scalable backend structure  
+## Contact
 
-### 🧪 QA Automation Lab 
-https://github.com/pamionj/qa-automation-lab
-- Automated testing using Selenium  
-- Reduced repetitive QA tasks  
+Interested in opportunities in full-stack or backend development, data integration, and process automation.
 
-### 🛒 E-commerce Platform  
-https://github.com/pamionj/tienda-del-ganso-fullstack
-- Full-stack application (Next.js + backend)  
-- Product and purchase flow management  
-
----
-
-## 🧩 What I'm Building Now
-
-- AI-powered automation systems  
-- Backend architectures for scalable workflows  
-- Real-world applications using LLMs  
-
----
-
-## 📫 Contact
-
-- Email: pamionj@gmail.com  
-- GitHub: https://github.com/pamionj  
-
----
+**Email:** [pamionj@gmail.com](mailto:pamionj@gmail.com)  
+**Portfolio:** [pabloamion-portfolio.pages.dev](https://pabloamion-portfolio.pages.dev/)
