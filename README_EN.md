@@ -7,7 +7,7 @@
 # Pablo Amion
 ### Backend Development · Data Engineering · Automation
 
-Informatics Engineering student in my final semester, with hands-on experience in backend development, data integration, and workflow automation.
+IT professional with experience in backend development, data engineering, process automation, and AI integration.
 
 I built a Python ETL platform deployed in production at Déficit Cero, consolidating more than **48,000 records** from multiple sources and automating operational reporting. 
 
