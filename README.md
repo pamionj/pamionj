@@ -10,7 +10,7 @@
 
 ### Desarrollo Backend · Ingeniería de Datos · Automatización
 
-Estudiante de último semestre de Ingeniería Informática y Analista Programador, con experiencia en desarrollo backend, integración de datos y automatización de procesos.
+Ingeniero Informático con experiencia en desarrollo backend, ingeniería de datos, automatización de procesos e integración de inteligencia artificial en soluciones de software.
 
 Desarrollé e implementé en producción una plataforma ETL en Python para Déficit Cero (Cámara Chilena de la Construcción), consolidando más de **48.000 registros** de múltiples fuentes y automatizando reportes operacionales.
 
